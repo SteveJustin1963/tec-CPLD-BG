@@ -1,16 +1,5 @@
 # tec-CPLD-BG
-tec1 CPLD addon using epm3064atc44
-
-Ben Grimmett
-1Scteptfem1bper f25m9 0soat9 e6:4mc6 Pd1M  · 
-Altera (Intel) epm3064 CPLD, 3.3v regulator, decoupling caps, DIP 28 footprint. 6 pin jtag header. 
-All 5v tolerant IO. 3.3v logic is compatible with 5v logic. 
-64 logic elements in this little thing. Consider a LE a latch or a register or a gate.  64 LEs can make 64bits of ram, or a 64bit counter, or 64 bit adder/subtractor/ spi port, DAC, PWM, just about anything you could do with a handfull of 74 series chips all in one DIP. 
-You could build a video card with a couple of these, some ram and an EPROM. Or a serial port, keyboard controller, configurable address decoder / mapper etc. 
-Erase and rewrite code to these at least 1000 times.
-Smd fully assembled. 28 and 6 pin header included but not soldered. 
-$13.50ea. Or $8ea unassembled kit. 
-
+tec1 CPLD addon using epm3064atc44 by Ben Grimmett
 
 ## Altera
 
@@ -74,4 +63,11 @@ Hit compile again, and now you're ready to put your code onto the CPLD. Use the 
 Reinoud de Lange; When you put it like that it almost sounds easy... 🙂
 
 Scott Gregory-Reinoud de Lange; Once you get your head around it, it isn't hard at all. I learned VHDL (the hardware description language) first as I was doing a complex device first up. Ben was a huge help with that.
+
+
+## Ref
+
+https://au.element14.com/altera/epm3064atc44-10n/cpld-max-3000a-64-macrocells-tqfp44/dp/1549417
+
+
 
