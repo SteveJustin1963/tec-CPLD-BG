@@ -43,33 +43,33 @@ May be an image of text that says '42 43 44 2 3 5 6 8 10 12 13 14 15 GND VCC 35 
 ## Step1: 
 Start a new project, select MAX3000 family, EPM3064ATC44-10
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step1.jpg)
 
 ## Step2. 
 Right click, insert symbol, find what you want to insert. Can be simple gates, or you can look in megafunnctions for the 74 series chips. Just click and place where you want
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step2.jpg)
 
 
 ## Step3. 
 Wire it together, add input and output pins.
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step3.jpg)
 
 ## Step4 
 Save, and click the Play button. It'll compile your design into code, show you how many IO pins you've used, and how many logic elements you've used
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step4.jpg)
 
 ## Step5. 
 Click on Pin planner, then drag and drop the pin names to the physical pins on the chip. If you named your signals in the schematic, it makes it much easier. You can place them where ever you like. I've only used IO pins in the CPLDip
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step5.jpg)
 
 ## Step6. 
 Hit compile again, and now you're ready to put your code onto the CPLD. Use the programmer icon, connect your usb blaster, click program. It'll be finished in 2 seconds and you're ready to use your custom IC
 
-![]()
+![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/SW/step6.jpg)
 
 Reinoud de Lange; When you put it like that it almost sounds easy... 🙂
 
