@@ -1,5 +1,9 @@
 # tec-CPLD-BG
-tec1 CPLD addon using epm3064atc44 by Ben Grimmett
+tec1 CPLD addon using epm3064atc44 
+by Ben Grimmett
+
+see also https://github.com/SteveJustin1963/tec-GBA-BG
+
 
 ![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/pics/pcb.png)
 
