@@ -98,7 +98,7 @@ Schematics are available, cpld code is available. No additional documentation is
 
 As of Nov 2021
 TEC compatible* Z80 computer
-Regular price$60.00
+Regular price $60.00 USD
 Tax included.
 
 
