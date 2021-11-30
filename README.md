@@ -76,4 +76,24 @@ Scott Gregory-Reinoud de Lange; Once you get your head around it, it isn't hard 
 https://au.element14.com/altera/epm3064atc44-10n/cpld-max-3000a-64-macrocells-tqfp44/dp/1549417
 
 
+## TEC-1 CPLD + Gameboy cart socket 
+
+https://bennvenn.myshopify.com/products/tec-compatible-z80-computer
+
+A reduced size, maximized flexibility TEC computer.
+
+Address decoding done via CPLD. You can define any memory map 
+
+CPLD keypad decoder. Can be expanded to thousands of keys or emulates the stock TEC encoder.
+
+CPLD display driver. Emulates the stock TEC design or configure it however you like.
+
+Bus header for expansion 
+
+Gameboy cart socket to expand ROM and ram (battery backed) to 4mbytes / 32kbytes.
+
+Can execute code directly from game carts. Flash erase and copy code build into the TEC monitor.
+
+Schematics are available, cpld code is available. No additional documentation is available. TEC compatible so you can refer to the TEC magazines online for programming / coding.
+
 
