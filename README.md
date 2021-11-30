@@ -96,4 +96,10 @@ Can execute code directly from game carts. Flash erase and copy code build into 
 
 Schematics are available, cpld code is available. No additional documentation is available. TEC compatible so you can refer to the TEC magazines online for programming / coding.
 
+As of Nov 2021
+TEC compatible* Z80 computer
+Regular price$60.00
+Tax included.
+
+
 ![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/pics/IMG_20211114_101113578_2048x2048.jpg)
