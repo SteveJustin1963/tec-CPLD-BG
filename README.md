@@ -78,6 +78,8 @@ https://au.element14.com/altera/epm3064atc44-10n/cpld-max-3000a-64-macrocells-tq
 
 ## TEC-1 CPLD + Gameboy cart socket 
 
+https://github.com/SteveJustin1963/tec-GBA-BG
+
 https://bennvenn.myshopify.com/products/tec-compatible-z80-computer
 
 A reduced size, maximized flexibility TEC computer.
