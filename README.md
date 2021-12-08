@@ -2,7 +2,7 @@
 tec1 CPLD addon using epm3064atc44 
 by Ben Grimmett
 
-see also https://github.com/SteveJustin1963/tec-GBA-BG
+see also https://github.com/SteveJustin1963/tec-TEC1-Custom-BG
 
 
 ![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/pics/pcb.png)
@@ -78,7 +78,7 @@ https://au.element14.com/altera/epm3064atc44-10n/cpld-max-3000a-64-macrocells-tq
 
 ## TEC-1 CPLD + Gameboy cart socket 
 
-https://github.com/SteveJustin1963/tec-GBA-BG
+https://github.com/SteveJustin1963/tec-TEC1-Custom-BG
 
 https://bennvenn.myshopify.com/products/tec-compatible-z80-computer
 
