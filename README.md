@@ -27,13 +27,13 @@ see also https://github.com/SteveJustin1963/tec-TEC1-Custom-BG
 $13.50ea. Or $8ea unassembled kit. 
 
 ## How do you program it?
-Using a USB Blaster from eBay ($4 china, $7 local for us aussues).
-These have an oscillator too?
-That sounds awesome! probably stick with the drag n drop schematic editor though as HDL could be a bit of a distraction.
-You have the pinout/schematic available of these boards? 
-draw something simple up now, Hard mode schematic.  
-Esentially a 27Cxx pinout. 14 and 28 as Vss and Vcc and a JTAG header. 
-May be an image of text that says '42 43 44 2 3 5 6 8 10 12 13 14 15 GND VCC 35 34 33 31 28 27 25 23 22 21 20 19 18 TDI TCK TMS GND 3.3 TDO'
+- Using a USB Blaster from eBay ($4 china, $7 local for us aussues).
+- These have an oscillator too?
+- That sounds awesome! probably stick with the drag n drop schematic editor though as HDL could be a bit of a distraction.
+- You have the pinout/schematic available of these boards? 
+- draw something simple up now, Hard mode schematic.  
+- Esentially a 27Cxx pinout. 14 and 28 as Vss and Vcc and a JTAG header. 
+- May be an image of text that says '42 43 44 2 3 5 6 8 10 12 13 14 15 GND VCC 35 34 33 31 28 27 25 23 22 21 20 19 18 TDI TCK TMS GND 3.3 TDO'
 
 ## Step1: 
 Start a new project, select MAX3000 family, EPM3064ATC44-10
