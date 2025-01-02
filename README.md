@@ -105,3 +105,14 @@ Tax included.
 
 
 ![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/pics/IMG_20211114_101113578_2048x2048.jpg)
+
+
+- A reduced size, maximized flexibility TEC computer.
+- Address decoding done via CPLD. You can define any memory map 
+- CPLD keypad decoder. Can be expanded to thousands of keys or emulates the stock TEC encoder.
+- CPLD display driver. Emulates the stock TEC design or configure it however you like.
+- Bus header for expansion 
+- Gameboy cart socket to expand ROM and ram (battery backed) to 4mbytes / 32kbytes.
+- Can execute code directly from game carts. Flash erase and copy code build into the TEC monitor.
+- Schematics are available, cpld code is available. No additional documentation is available. TEC compatible so you can refer to the TEC magazines online for programming / coding.
+
