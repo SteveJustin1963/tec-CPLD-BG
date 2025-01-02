@@ -106,6 +106,9 @@ Tax included.
 
 ![](https://github.com/SteveJustin1963/tec-CPLD-BG/blob/main/pics/IMG_20211114_101113578_2048x2048.jpg)
 
+![image](https://github.com/user-attachments/assets/9b6b5f44-0b7b-4efb-97c8-aaaabff7c2a9)
+
+
 
 - A reduced size, maximized flexibility TEC computer.
 - Address decoding done via CPLD. You can define any memory map 
